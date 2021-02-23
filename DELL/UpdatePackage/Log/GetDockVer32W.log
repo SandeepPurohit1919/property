@@ -1,0 +1,26 @@
+
+**************************************************
+***Dell Get Dock Version started on 2/21/2021 at 8:56:18***
+Command: C:\Windows\TEMP\invD689_tmp\TBT_Dock_Firmware\GetDockVer32W.exe /o= ..\TB_Dock_Inv.xml
+
+WSMT Not Supported: Attempted WMI command to read WSMT support token but command failed, using legacy DACI commands
+Dock Firmware Update is incompatible with your system.
+
+Update utility is only compatible with systems running Dell BIOS.
+Dell Get Dock Version
+Final Error code:0
+***Dell Get Dock Version finished at 2/21/2021 at 8:56:19***
+
+
+**************************************************
+***Dell Get Dock Version started on 2/21/2021 at 15:53:26***
+Command: C:\Windows\TEMP\invBD81_tmp\TBT_Dock_Firmware\GetDockVer32W.exe /o= ..\TB_Dock_Inv.xml
+
+WSMT Not Supported: Attempted WMI command to read WSMT support token but command failed, using legacy DACI commands
+Dock Firmware Update is incompatible with your system.
+
+Update utility is only compatible with systems running Dell BIOS.
+Dell Get Dock Version
+Final Error code:0
+***Dell Get Dock Version finished at 2/21/2021 at 15:53:26***
+
